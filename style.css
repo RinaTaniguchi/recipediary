@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 html {
-    font-size: 100%; /*16px*/
+    font-size: 100%; 
 }
 
 body {
@@ -49,13 +49,13 @@ body {
 }
 
 h1 {
-    font-size: 1.75rem; /*28px*/
+    font-size: 1.75rem; 
     margin-bottom: 20px;
 }
 
 h2 {
     border-bottom: 1px solid #CCCCCC;
-    font-size: 1.25rem; /*20px*/
+    font-size: 1.25rem; 
     padding-bottom: 5px;
     margin: 40px 0 15px 0;
 }
@@ -87,13 +87,13 @@ a:visited {
 .button a {
     display: inline-block;
     border: 1px solid #2B2A27;
-    font-size: 0.875rem; /*14px*/
+    font-size: 0.875rem; 
     padding: 18px 60px;
     text-decoration: none;
 }
 
 .footer {
-    font-size: 0.75rem; /*12px*/
+    font-size: 0.75rem; 
     padding: 20px;
     text-align: center;
 }
